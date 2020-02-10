@@ -1,0 +1,11 @@
+C:\Users\buudu\Desktop\PowerOff\PowerOff\bin\x64\Debug\KeepPC.exe.config
+C:\Users\buudu\Desktop\PowerOff\PowerOff\bin\x64\Debug\KeepPC.exe
+C:\Users\buudu\Desktop\PowerOff\PowerOff\bin\x64\Debug\KeepPC.pdb
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\PowerOff.Form1.resources
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.Properties.Resources.resources
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.csproj.GenerateResource.cache
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.exe.licenses
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.csproj.CoreCompileInputs.cache
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.exe
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.pdb
+C:\Users\buudu\Desktop\PowerOff\PowerOff\obj\x64\Debug\KeepPC.csprojAssemblyReference.cache
