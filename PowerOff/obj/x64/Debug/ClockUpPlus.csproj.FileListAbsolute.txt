@@ -1,0 +1,10 @@
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\bin\x64\Debug\ClockUpPlus.exe.config
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\bin\x64\Debug\ClockUpPlus.exe
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\bin\x64\Debug\ClockUpPlus.pdb
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\PowerOff.Form1.resources
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.Properties.Resources.resources
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.csproj.GenerateResource.cache
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.exe.licenses
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.csproj.CoreCompileInputs.cache
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.exe
+C:\Users\buudu\Documents\GitHub\KeepPC\PowerOff\obj\x64\Debug\ClockUpPlus.pdb

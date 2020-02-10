@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepPC", "PowerOff\KeepPC.csproj", "{98F9F2A0-61D8-4EE5-AE3C-9F791ECC1C4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockUpPlus", "PowerOff\ClockUpPlus.csproj", "{98F9F2A0-61D8-4EE5-AE3C-9F791ECC1C4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

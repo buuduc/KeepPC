@@ -371,6 +371,51 @@ namespace PowerOff
             }
 
         }
+
+        private void PinBtn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                cmd.BatteryReport();
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Lỗi không xác định ! \n" + e.ToString(), "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                throw;
+            }
+        }
+
+        private void ImageBackupBtn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                cmd.WindowsImageBackUp();
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Lỗi không xác định ! \n" + e.ToString(), "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                throw;
+            }
+        }
+
+        private void Msconfigbtn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                cmd.MSCONFIG();
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Lỗi không xác định ! \n" + e.ToString(), "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                throw;
+            }
+        }
     }
     
 }

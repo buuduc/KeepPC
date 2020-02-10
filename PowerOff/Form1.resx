@@ -117,6 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Bạn hãy thiết lập thời gian shutdown/restart mong muốn tại đây:
+-  Nếu muốn thiết lập thời gian thiết bị tự động thực hiện lệnh theo thời gian thực của 
+    đồng hồ, lựa chọn "Hẹn Giờ" và điều chỉnh hẹn giờ.
+-  Nếu muốn đếm ngược thời gian đến khi thiết bị tự động thực hiện lệnh, lựa chọn 
+    "Bấm Giờ" và điểu chỉnh thời gian đếm ngược.</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Những công cụ này sẽ can
+thiệp trực tiếp vào hệ điều 
+hành cũng như phần cứng
+thiết bị. Trước khi sử dụng 
+chúng, bạn phải hiểu rõ 
+mình đang làm gì và nó sẽ 
+ảnh hưởng trực tiếp như thế 
+nào tới máy tính của bạn !</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

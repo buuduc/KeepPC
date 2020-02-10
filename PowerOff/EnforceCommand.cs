@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 using System.Diagnostics;
 using System.Windows.Forms;
 
@@ -97,19 +97,27 @@ namespace PowerOff
         }
         public void BatteryReport()
         {
-            var cmd = new Process
+            if (System.IO.File.Exists("battery-report.html") == true)
             {
-                StartInfo = new ProcessStartInfo()
+                try
                 {
-                    FileName = "cmd.exe",
-                    Arguments = "<powercfg /batteryreport /output>",
-                    WorkingDirectory= "<C:/Windows/System32/cmd.exe>"
+                    System.IO.File.Delete("battery-report.html");
+                    
                 }
-            };
+                catch { }
+            }
+                Command("powercfg", "/batteryreport");
+            try
+            {
+            Process.Start("battery-report.html");
 
-            cmd.Start();
-           
-            MessageBox.Show("test successful");
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Lấy thông tin thất bại !");
+                throw;
+            }
+            MessageBox.Show("Lấy thông tin thành công !");
         }
         public void DiskCleanup()
         {
@@ -135,5 +143,14 @@ namespace PowerOff
         {
             Process.Start("diskmgmt.msc");
         }
+        public void WindowsImageBackUp()
+        {
+            Process.Start("sdclt");
+        }
+        public void MSCONFIG()
+        {
+            Process.Start("msconfig");
+        }
+
     }
 }
